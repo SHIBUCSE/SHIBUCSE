@@ -98,7 +98,7 @@ A computer vision project for retinal image classification with explainable AI.
 
 **Technologies:** Python · Deep Learning · TensorFlow/PyTorch · Grad-CAM · Streamlit
 
-🔗 [View Repository](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
+🔗 [View Repository]([https://github.com/YOUR_USERNAME/YOUR_REPOSITORY](https://github.com/SHIBUCSE/MTECH_VIT_SEM1_PROGRAMMING_FOR_DATA_SCIENCE.git))
 
 ### 🛰️ Satellite Collision Prediction
 
@@ -117,8 +117,8 @@ A research-oriented project exploring machine learning for satellite conjunction
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SHIBUCSE&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIBUCSE&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 </p>
 
 <p align="center">
