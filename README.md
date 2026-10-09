@@ -138,7 +138,7 @@ A research-oriented project exploring machine learning for satellite conjunction
 ## 🤝 Connect With Me
 
 <p>
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/](https://www.linkedin.com/in/shibup001?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+  <a href="https://in.linkedin.com/in/shibup001">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="http://github.com/SHIBUCSE/">
